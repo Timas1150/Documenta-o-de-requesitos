@@ -28,7 +28,7 @@ Regra de Preço: Incidência automática de taxa adicional de 15% sobre o valor 
     |Versão|   Data   |               Descrição                          |  Autor |
     |1.0.0 |15/01/2026|	Documentação inicial (24h a 6 meses).	         |Analista|
     |1.1.0 |10/02/2026|	Adicionada exceção de 1 ano para Clientes VIP.   |Analista|
-
+    |2.0.0 |20/03/2026|	Inclusão de reservas Last Minute com taxa de 15%.|Analista|
 ## 5. Conclusão
 
 
