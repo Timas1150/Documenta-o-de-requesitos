@@ -27,7 +27,7 @@ Regra de Preço: Incidência automática de taxa adicional de 15% sobre o valor 
 ### 4.1 Histórico de Versão
     |Versão|   Data   |               Descrição                          |  Autor |
     |1.0.0 |15/01/2026|	Documentação inicial (24h a 6 meses).	         |Analista|
-    
+    |1.1.0 |10/02/2026|	Adicionada exceção de 1 ano para Clientes VIP.   |Analista|
 
 ## 5. Conclusão
 
